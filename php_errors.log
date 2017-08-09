@@ -1,0 +1,15 @@
+[09-Aug-2017 10:26:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/wp-content/mu-plugins/._gd-system-plugin.php:2) in /home/ubuntu/workspace/wp-admin/install.php on line 59
+[09-Aug-2017 10:26:57 UTC] PHP Stack trace:
+[09-Aug-2017 10:26:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/install.php:0
+[09-Aug-2017 10:26:57 UTC] PHP   2. display_header() /home/ubuntu/workspace/wp-admin/install.php:293
+[09-Aug-2017 10:26:57 UTC] PHP   3. header() /home/ubuntu/workspace/wp-admin/install.php:59
+[09-Aug-2017 10:27:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/wp-content/mu-plugins/._gd-system-plugin.php:2) in /home/ubuntu/workspace/wp-admin/install.php on line 59
+[09-Aug-2017 10:27:01 UTC] PHP Stack trace:
+[09-Aug-2017 10:27:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/install.php:0
+[09-Aug-2017 10:27:01 UTC] PHP   2. display_header() /home/ubuntu/workspace/wp-admin/install.php:313
+[09-Aug-2017 10:27:01 UTC] PHP   3. header() /home/ubuntu/workspace/wp-admin/install.php:59
+[09-Aug-2017 10:28:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/wp-content/mu-plugins/._gd-system-plugin.php:2) in /home/ubuntu/workspace/wp-admin/install.php on line 59
+[09-Aug-2017 10:28:27 UTC] PHP Stack trace:
+[09-Aug-2017 10:28:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/install.php:0
+[09-Aug-2017 10:28:27 UTC] PHP   2. display_header() /home/ubuntu/workspace/wp-admin/install.php:337
+[09-Aug-2017 10:28:27 UTC] PHP   3. header() /home/ubuntu/workspace/wp-admin/install.php:59
